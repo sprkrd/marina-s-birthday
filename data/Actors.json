@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Characters","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marina","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_2","characterIndex":3,"characterName":"Characters","classId":1,"equips":[0,0,0,9,0],"faceIndex":3,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alejandro","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_3","characterIndex":1,"characterName":"Characters","classId":5,"equips":[0,0,65,5,0],"faceIndex":1,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Asier","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_4","characterIndex":2,"characterName":"Characters","classId":5,"equips":[0,0,0,5,0],"faceIndex":2,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alf","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Characters","classId":2,"equips":[7,0,0,20,0],"faceIndex":4,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Maria","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lobo","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Characters","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Oriol","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Characters","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Carla","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"Animal_sprites","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Halley","nickname":"","note":"","profile":""}
+]
