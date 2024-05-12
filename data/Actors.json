@@ -8,5 +8,5 @@ null,
 {"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lobo","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Characters","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Oriol","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Characters","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Characters","traits":[],"initialLevel":1,"maxLevel":99,"name":"Carla","nickname":"","note":"","profile":""},
-{"id":9,"battlerName":"","characterIndex":0,"characterName":"Animal_sprites","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Halley","nickname":"","note":"","profile":""}
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"Animal_sprites","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Animal_faces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Halley","nickname":"","note":"","profile":""}
 ]
